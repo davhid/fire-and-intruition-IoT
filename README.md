@@ -1,5 +1,5 @@
 # IoT
-# IoT Fire Detection System
+# IoT Fire and Intrusion Detection System
 An IoT-based fire and intrusion detection system using ESP8266 and Blynk platform.
 
 ## Features
